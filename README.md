@@ -1,3 +1,3 @@
 # baseline_Python
-- python basic
-- python analyze
+- Python basic
+- Data analysis
